@@ -46,7 +46,7 @@ const Login = () => {
     <div>
       <Head>
         <title>
-          OYO : India's Best Online Hotel Booking Site For Sanitized Stay.
+          OYO : Indias Best Online Hotel Booking Site For Sanitized Stay.
           </title>
       </Head>
       <div className="flex h-screen justify-center items-center relative bg-loginBackground bg-no-repeat bg-cover opacity-100">
